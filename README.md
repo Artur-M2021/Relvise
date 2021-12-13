@@ -1,2 +1,2 @@
 # Relvise
-Training web-site
+Training website
